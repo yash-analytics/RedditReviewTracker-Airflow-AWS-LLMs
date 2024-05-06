@@ -35,7 +35,7 @@
 
 - **Dashboard Overview**: Provides interactive visualizations of the data. Example dashboard: ![QuickSight Dashboard](./Project%20Sreenshots/5.%20QuickSight%20Dashboard.png)
 
-## Additional Project Step Screenshots:
+## Additional Project Step Screenshots
 
 - **Docker Setup**: Ensures consistent deployments. Docker build process: ![Docker Build](./Project%20Sreenshots/1.%20Docker%20Build.png)
 - **AWS S3 Storage**: Critical for data storage, setup visible here: ![S3 Storage](./Project%20Sreenshots/3.%20S3.png)
