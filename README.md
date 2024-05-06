@@ -39,7 +39,7 @@
 
 - **Docker Setup**: Ensures consistent deployments. Docker build process: ![Docker Build](./Project%20Sreenshots/1.%20Docker%20Build.png)
 - **AWS S3 Storage**: Critical for data storage, setup visible here: ![S3 Storage](./Project%20Sreenshots/3.%20S3.png)
-- **Redshift Query Performance**: Illustrated here: ![Redshift Query](.Project%20Sreenshots/4.%20Redshift%20Query.png)
+- **Redshift Query Performance**: Illustrated here: ![Redshift Query](./Project%20Sreenshots/4.%20Redshift%20Query.png)
 
 ## Results
 
