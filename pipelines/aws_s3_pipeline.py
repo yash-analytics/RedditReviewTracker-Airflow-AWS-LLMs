@@ -3,7 +3,7 @@ from utils.constants import AWS_BUCKET_NAME
 
 
 def upload_s3_pipeline(ti):
-    file_path = ti.xcom_pull(task_ids='reddit_extraction', key='return_value')
+    file_path = ti.xcom_pull(task_ids='enhance', key='return_value')
     # Connect to S3
     s3 = connect_to_s3()
     # Create bucket

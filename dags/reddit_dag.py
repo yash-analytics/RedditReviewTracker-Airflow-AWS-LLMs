@@ -39,18 +39,18 @@ extract = PythonOperator(
     dag=dag
 )
 
-# upload to s3
-upload_s3 = PythonOperator(
-    task_id='s3_upload',
-    python_callable=upload_s3_pipeline,
-    dag=dag
-)
-
-# upload to s3
+# Data Enhancement
 data_enhancement = PythonOperator(
     task_id='enhance',
     python_callable=enhanced_data,
     dag=dag
 )
 
-extract >> upload_s3 >> data_enhancement
+# Upload to s3
+upload_s3 = PythonOperator(
+    task_id='s3_upload',
+    python_callable=upload_s3_pipeline,
+    dag=dag
+)
+
+extract >>  data_enhancement >> upload_s3
