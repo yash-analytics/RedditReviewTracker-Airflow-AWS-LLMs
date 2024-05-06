@@ -2,4 +2,4 @@ venv
 *.conf
 logs
 .idea
-__pycache__
+__pycache__!/.env

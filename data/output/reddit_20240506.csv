@@ -1,20 +1,14 @@
 id,title,score,num_comments,author,created_utc,url,over_18,edited,spoiler,stickied
-1ckrmvg,Zero-ETL vs ELT?,66,52,addictzz,2024-05-05 13:46:23,https://www.reddit.com/r/dataengineering/comments/1ckrmvg/zeroetl_vs_elt/,False,False,False,False
-1cki2nj,DuckDB as a warehousing solution.,33,31,Suspicious_Peanut282,2024-05-05 03:28:05,https://www.reddit.com/r/dataengineering/comments/1cki2nj/duckdb_as_a_warehousing_solution/,False,False,False,False
-1ckvq6g,dbt users how do you do handle upstream schema changes?,31,17,ruckrawjers,2024-05-05 16:54:40,https://www.reddit.com/r/dataengineering/comments/1ckvq6g/dbt_users_how_do_you_do_handle_upstream_schema/,False,False,False,False
-1cksjch,Catching up as a backend engineer,23,2,rectalrectifier,2024-05-05 14:30:15,https://www.reddit.com/r/dataengineering/comments/1cksjch/catching_up_as_a_backend_engineer/,False,False,False,False
-1ckq3ou,"For GCP users, why would you choose Dataproc instead of Dataflow for batch processing?",13,7,Laurence-Lin,2024-05-05 12:25:31,https://www.reddit.com/r/dataengineering/comments/1ckq3ou/for_gcp_users_why_would_you_choose_dataproc/,False,False,False,False
-1ckl1ei,Need suggestion for design strategy,8,7,ConsiderationLazy956,2024-05-05 06:38:44,https://www.reddit.com/r/dataengineering/comments/1ckl1ei/need_suggestion_for_design_strategy/,False,False,False,False
-1ckvq3v,Separating business logic with data,7,5,JJtheSucculent,2024-05-05 16:54:36,https://www.reddit.com/r/dataengineering/comments/1ckvq3v/separating_business_logic_with_data/,False,False,False,False
-1cl0kem,Want to orchestrate my DBT Core model implementation with Airflow on azure cloud,6,3,Eggplant-Own,2024-05-05 20:26:00,https://www.reddit.com/r/dataengineering/comments/1cl0kem/want_to_orchestrate_my_dbt_core_model/,False,False,False,False
-1ckqact,Setup CICD using GitHub actions for airflow installed in local machine in WSL,5,12,_srinithin,2024-05-05 12:36:00,https://www.reddit.com/r/dataengineering/comments/1ckqact/setup_cicd_using_github_actions_for_airflow/,False,False,False,False
-1cknde2,Extraction Tool for Mysql database,6,7,Suspicious_Peanut282,2024-05-05 09:24:29,https://www.reddit.com/r/dataengineering/comments/1cknde2/extraction_tool_for_mysql_database/,False,False,False,False
-1cl6y7w,How to fit Databricks into AWS Data Platform (Clashing Data Governance Concepts)?,4,3,mccarthycodes,2024-05-06 01:20:50,https://www.reddit.com/r/dataengineering/comments/1cl6y7w/how_to_fit_databricks_into_aws_data_platform/,False,False,False,False
-1ckouku,Computer Vision + Apache Pinot Vector Index,4,0,hkdelay,2024-05-05 11:09:24,https://open.substack.com/pub/hubertdulay/p/computer-vision-apache-pinot-vector?r=46sqk&utm_medium=ios,False,False,False,False
-1ckl0kk,Azure Databricks cost optimization for parquet and delta tables,3,2,Plenty_Cold8579,2024-05-05 06:37:07,https://www.reddit.com/r/dataengineering/comments/1ckl0kk/azure_databricks_cost_optimization_for_parquet/,False,False,False,False
-1ckxad4,Is masters going add anything to my profile?,3,6,MonkWithAFerrari,2024-05-05 18:04:08,https://www.reddit.com/r/dataengineering/comments/1ckxad4/is_masters_going_add_anything_to_my_profile/,False,False,False,False
-1ckop4n,Managing Data Products,3,0,Beneficial_Nose1331,2024-05-05 10:59:58,https://www.reddit.com/r/dataengineering/comments/1ckop4n/managing_data_products/,False,False,False,False
-1ckmf96,Need some help understanding my project...,3,8,LucaMarko,2024-05-05 08:15:02,https://www.reddit.com/r/dataengineering/comments/1ckmf96/need_some_help_understanding_my_project/,False,False,False,False
-1cl01tr,How is Gitea Actions?,2,1,DuckDatum,2024-05-05 20:03:50,https://www.reddit.com/r/dataengineering/comments/1cl01tr/how_is_gitea_actions/,False,False,False,False
-1ckvnz0,From ETL and ELT to Reverse ETL,0,1,luminoumen,2024-05-05 16:51:59,https://luminousmen.com/post/from-etl-and-elt-to-reverse-etl,False,False,False,False
-1cl0zgi,What is verhoeff algorithm,0,0,UpvoteBeast,2024-05-05 20:44:12,https://app.daily.dev/posts/what-is-verhoeff-algorithm-cnoz0dhdo,False,False,False,False
+1ckr1tp,Net Sales report - what is considered in Net Sales?,4,5,paulcjones,2024-05-05 13:16:21,https://www.reddit.com/r/shopify/comments/1ckr1tp/net_sales_report_what_is_considered_in_net_sales/,False,False,False,False
+1ckxhrl,Is this a legit way to integrate Klarna with Stripe for Shopify?,3,2,EverydayMustBeFriday,2024-05-05 18:12:58,https://www.reddit.com/r/shopify/comments/1ckxhrl/is_this_a_legit_way_to_integrate_klarna_with/,False,False,False,False
+1ckw46a,Bundles + upsales,3,2,JasnX,2024-05-05 17:11:54,https://www.reddit.com/r/shopify/comments/1ckw46a/bundles_upsales/,False,False,False,False
+1ckt2jf,Which site to test speed?,3,4,breakonthrough65,2024-05-05 14:55:15,https://www.reddit.com/r/shopify/comments/1ckt2jf/which_site_to_test_speed/,False,False,False,False
+1clap9r,Anyone tried shopify and woocomerce and then moved to woocomerce because you thought it was better?,2,4,swiggyu,2024-05-06 04:43:21,https://www.reddit.com/r/shopify/comments/1clap9r/anyone_tried_shopify_and_woocomerce_and_then/,False,False,False,False
+1cl4tde,Using parts of PageFly template sections to your theme?,2,6,Vegetable_Gold4328,2024-05-05 23:33:45,https://www.reddit.com/r/shopify/comments/1cl4tde/using_parts_of_pagefly_template_sections_to_your/,False,False,False,False
+1cl4gmr,How to setup international shipping and tax,2,6,_IOXROGUE_,2024-05-05 23:17:36,https://www.reddit.com/r/shopify/comments/1cl4gmr/how_to_setup_international_shipping_and_tax/,False,False,False,False
+1ckz1w0,QBO Integration Question,2,2,Welinder,2024-05-05 19:20:44,https://www.reddit.com/r/shopify/comments/1ckz1w0/qbo_integration_question/,False,False,False,False
+1ckym2v,Customer waiting for package,2,5,spaghettiscarf,2024-05-05 19:01:49,https://www.reddit.com/r/shopify/comments/1ckym2v/customer_waiting_for_package/,False,False,False,False
+1ckvth2,Show Shipping Profile on Product Page?,2,4,Samadhian,2024-05-05 16:58:56,https://www.reddit.com/r/shopify/comments/1ckvth2/show_shipping_profile_on_product_page/,False,False,False,False
+1cku7s1,I'm Lost On Shopify and Have No Idea Where To Start  ,1,4,MikeCromms,2024-05-05 15:46:56,https://www.reddit.com/r/shopify/comments/1cku7s1/im_lost_on_shopify_and_have_no_idea_where_to_start/,False,False,False,False
+1cknmyh,Best Ad Channel For My Store ?,1,13,Mehdyben,2024-05-05 09:44:46,https://www.reddit.com/r/shopify/comments/1cknmyh/best_ad_channel_for_my_store/,False,False,False,False
+1ckul8l,I'm Lost On Shopify and Have No Idea Where To Start,0,39,MikeCromms,2024-05-05 16:03:49,https://www.reddit.com/r/shopify/comments/1ckul8l/im_lost_on_shopify_and_have_no_idea_where_to_start/,False,False,False,False

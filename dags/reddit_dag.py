@@ -9,6 +9,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from pipelines.aws_s3_pipeline import upload_s3_pipeline
 from pipelines.reddit_pipeline import reddit_pipeline
+from pipelines.data_enhancement_pipeline import enhanced_data
 
 default_args = {
     'owner': 'Yash Joshi',
@@ -45,4 +46,11 @@ upload_s3 = PythonOperator(
     dag=dag
 )
 
-extract >> upload_s3
+# upload to s3
+data_enhancement = PythonOperator(
+    task_id='enhance',
+    python_callable=enhanced_data,
+    dag=dag
+)
+
+extract >> upload_s3 >> data_enhancement

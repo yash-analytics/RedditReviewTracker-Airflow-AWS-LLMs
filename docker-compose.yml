@@ -13,6 +13,7 @@ x-airflow-common:
     - ./dags:/opt/airflow/dags
     - ./data:/opt/airflow/data
     - ./etls:/opt/airflow/etls
+    - ./pydantic_class:/opt/airflow/pydantic_class
     - ./logs:/opt/airflow/logs
     - ./pipelines:/opt/airflow/pipelines
     - ./plugins:/opt/airflow/plugins

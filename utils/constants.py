@@ -21,6 +21,7 @@ AWS_BUCKET_NAME = parser.get('aws', 'aws_bucket_name')
 
 INPUT_PATH = parser.get('file_paths', 'input_path')
 OUTPUT_PATH = parser.get('file_paths', 'output_path')
+TRANSFORMED_PATH = parser.get('file_paths', 'transformed_path')
 
 POST_FIELDS = (
     'id',
