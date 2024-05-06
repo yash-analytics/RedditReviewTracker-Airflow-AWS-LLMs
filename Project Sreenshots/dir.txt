@@ -1,0 +1,15 @@
+ Volume in drive C is Local Disk
+ Volume Serial Number is 56AC-1264
+
+ Directory of C:\Users\Yash Joshi\Documents\GitHub\RedditReviewTracker\Project Sreenshots
+
+2024-05-06  06:45 AM    <DIR>          .
+2024-05-06  06:41 AM    <DIR>          ..
+2024-05-06  06:21 AM         2,276,564 1. Docker Build.png
+2024-05-06  06:22 AM           784,461 2. Airflow DAG Run.png
+2024-05-06  06:23 AM           447,764 3. S3.png
+2024-05-06  06:24 AM         1,303,283 4. Redshift Query.png
+2024-05-06  06:24 AM           408,313 5. QuickSight Dashboard.png
+2024-05-06  06:45 AM                 0 dir.txt
+               6 File(s)      5,220,385 bytes
+               2 Dir(s)  188,699,160,576 bytes free
