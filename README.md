@@ -24,22 +24,22 @@
 - **Data Enhancement**: Uses `data_enhancement` in [pipelines folder](./pipelines/data_enhancement_pipeline.py), applying sentiment and category analysis via the OpenAI API.
 - **Data Storage**: Enhanced data is stored in AWS S3, then processed in AWS Glue and Athena, and loaded into Amazon Redshift.
 
-**Output**:
-- Visualized in Amazon QuickSight. The visual outputs can be viewed in the [Project Screenshots folder](./Project Screenshots).
+**Output**: 
+- Visualized in Amazon QuickSight. The visual outputs can be viewed in the [Project Screenshots folder](./Project%20Screenshots).
 
 ### Deployment and Execution
 
-- **Airflow DAG**: Configured in the [dags folder](./dags), orchestrates the workflow daily. See the DAG run here: ![Airflow DAG Run](./Project Screenshots/2. Airflow DAG Run.png)
+- **Airflow DAG**: Configured in the [dags folder](./dags), orchestrates the workflow daily. See the DAG run here: ![Airflow DAG Run](./Project%20Screenshots/2.%20Airflow%20DAG%20Run.png)
 
 ### QuickSight Visualizations
 
-- **Dashboard Overview**: Provides interactive visualizations of the data. Example dashboard: ![QuickSight Dashboard](./Project Screenshots/5. QuickSight Dashboard.png)
+- **Dashboard Overview**: Provides interactive visualizations of the data. Example dashboard: ![QuickSight Dashboard](./Project%20Screenshots/5.%20QuickSight%20Dashboard.png)
 
 ## Additional Visualizations and Insights
 
-- **Docker Setup**: Ensures consistent deployments. Docker build process: ![Docker Build](./Project Screenshots/1. Docker Build.png)
-- **AWS S3 Storage**: Critical for data storage, setup visible here: ![S3 Storage](./Project Screenshots/3. S3.png)
-- **Redshift Query **: Illustrated here: ![Redshift Query](./Project Screenshots/4. Redshift Query.png)
+- **Docker Setup**: Ensures consistent deployments. Docker build process: ![Docker Build](./Project%20Screenshots/1.%20Docker%20Build.png)
+- **AWS S3 Storage**: Critical for data storage, setup visible here: ![S3 Storage](./Project%20Screenshots/3.%20S3.png)
+- **Redshift Query Performance**: Illustrated here: ![Redshift Query](./Project%20Screenshots/4.%20Redshift%20Query.png)
 
 ## Results
 
