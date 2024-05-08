@@ -2,6 +2,9 @@
 
 ## Project Description
 
+**Objective/Goal**:
+- To automate insights into customer discussions on platforms like Reddit, adaptable to any subreddit or customer discussion forum.
+
 **Sector**:
 - SaaS (Software as a Service)
 
@@ -10,9 +13,6 @@
 - **Python**: Primary programming language.
 - **AWS Services (S3, Glue, Athena, Redshift)**: Used for data storage, processing, and analysis.
 - **OpenAI API with Instructor and Pydantic**: Enhances extracted data by categorizing post titles and analyzing sentiments.
-
-**Objective/Goal**:
-- To automate insights into customer discussions on platforms like Reddit, adaptable to any subreddit or customer discussion forum.
 
 ## Data Source, Transformation & Output
 
