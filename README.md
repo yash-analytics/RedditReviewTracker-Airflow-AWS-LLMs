@@ -16,6 +16,11 @@
 
 ## Data Source, Transformation & Output
 
+**Architecture Overview**:
+Below is the architecture used in this project:
+
+![Architecture](./Architecture/RedditReviewTracker-Airflow-AWS-LLMs.drawio.png)
+
 **Data Sources**:
 - Extracted from the Reddit API, initially focused on r/shopify.
 
