@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T17:24:16.270Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="HSXTlPmDUyPYWcd5Fe_8" version="24.4.8" type="device">
+<mxfile host="app.diagrams.net" modified="2024-05-24T20:21:50.785Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="LvYIOhi0NJXIyyL5Y52E" version="24.4.8" type="device">
   <diagram id="cdb5e136-1861-7ef1-5e76-c57f7e18aa8d" name="ERD Data Structure - Habit Tracker App">
-    <mxGraphModel dx="1050" dy="522" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="700" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="696" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,10 +42,10 @@
             <mxPoint x="667" y="282" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g955npDIXCGvVR-R7ZpQ-62" value="" style="endArrow=classic;html=1;rounded=0;endSize=1;startSize=1;strokeWidth=1.5;strokeColor=#000000;" parent="1" edge="1">
+        <mxCell id="g955npDIXCGvVR-R7ZpQ-62" value="" style="endArrow=classic;html=1;rounded=0;endSize=3;startSize=1;strokeWidth=1.5;strokeColor=#000000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="229.00307352142613" y="250.66193825042888" as="sourcePoint" />
-            <mxPoint x="281.7220478804004" y="250.66193825042888" as="targetPoint" />
+            <mxPoint x="234" y="260" as="sourcePoint" />
+            <mxPoint x="281.7220478804004" y="259.6619382504289" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zaqEi0Wex6OZCFu0WV71-1" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;DATA SOURCE&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#003f5c;" parent="1" vertex="1">
@@ -66,10 +66,10 @@
         <mxCell id="kvdy_L80WHXKSCSRpp7Q-8" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; text-wrap: nowrap;&quot;&gt;&lt;b&gt;Reddit API&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="47.41" y="210" width="144" height="32.16" as="geometry" />
         </mxCell>
-        <mxCell id="kvdy_L80WHXKSCSRpp7Q-10" value="" style="endArrow=classic;html=1;rounded=0;endSize=1;startSize=1;strokeWidth=1.5;strokeColor=#000000;" parent="1" edge="1">
+        <mxCell id="kvdy_L80WHXKSCSRpp7Q-10" value="" style="endArrow=classic;html=1;rounded=0;endSize=3;startSize=1;strokeWidth=1.5;strokeColor=#000000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="502.00307352142613" y="250.66193825042888" as="sourcePoint" />
-            <mxPoint x="554.7220478804004" y="250.66193825042888" as="targetPoint" />
+            <mxPoint x="502.00307352142613" y="259.6619382504289" as="sourcePoint" />
+            <mxPoint x="554.7220478804004" y="259.6619382504289" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kvdy_L80WHXKSCSRpp7Q-14" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;DATA ENHANCEMENT&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#003f5c;" parent="1" vertex="1">
